@@ -623,7 +623,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BigWalker_0: -43013566977434302
+      BigWalker_1: 2787764796079955763
+      BigWalker_10: -6466062685634653971
+      BigWalker_11: -2124821140898901309
+      BigWalker_12: -8439316265282825344
+      BigWalker_13: 1731997522115832391
+      BigWalker_14: -4654333412289276326
+      BigWalker_15: 7613628515325398729
+      BigWalker_16: 1309569484802417522
+      BigWalker_17: -3008131195473579686
+      BigWalker_18: -4212030433511928690
+      BigWalker_2: 727647304492497804
+      BigWalker_3: -6348423789035464469
+      BigWalker_4: -5739505232559366699
+      BigWalker_5: 3929048425184424860
+      BigWalker_6: 7364451962347785626
+      BigWalker_7: 6846560306484059182
+      BigWalker_8: 6149988079914480010
+      BigWalker_9: -3003594907890931439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

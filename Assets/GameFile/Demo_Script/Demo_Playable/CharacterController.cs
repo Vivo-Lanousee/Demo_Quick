@@ -24,11 +24,8 @@ public class CharacterController : MonoBehaviour
 
     private readonly RaycastHit[] _raycastHits = new RaycastHit[1];
 
-
+    [SerializeField]
     private float Speed = 2.0f;
-
-
-
 
 
 
@@ -66,6 +63,9 @@ public class CharacterController : MonoBehaviour
                 rb.linearVelocity = new Vector3(vector.x*Speed,vector.y*Speed,0);
                              }).AddTo(Chara);
     }
+
+
+
 
     /// <summary>
     /// コンセントを伸ばす。
